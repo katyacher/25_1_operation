@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kate/skillbox/code/25.1_operation/build/src",
+  "command": "/usr/bin/g++   -I/home/kate/skillbox/code/25.1_operation/include  -g   -o CMakeFiles/25_1_operation.dir/main.cpp.o -c /home/kate/skillbox/code/25.1_operation/src/main.cpp",
+  "file": "/home/kate/skillbox/code/25.1_operation/src/main.cpp"
+},
+{
+  "directory": "/home/kate/skillbox/code/25.1_operation/build/src",
+  "command": "/usr/bin/g++   -I/home/kate/skillbox/code/25.1_operation/include  -g   -o CMakeFiles/25_1_operation.dir/operation.cpp.o -c /home/kate/skillbox/code/25.1_operation/src/operation.cpp",
+  "file": "/home/kate/skillbox/code/25.1_operation/src/operation.cpp"
+},
+{
+  "directory": "/home/kate/skillbox/code/25.1_operation/build/src",
+  "command": "/usr/bin/g++   -I/home/kate/skillbox/code/25.1_operation/include  -g   -o CMakeFiles/25_1_operation.dir/point.cpp.o -c /home/kate/skillbox/code/25.1_operation/src/point.cpp",
+  "file": "/home/kate/skillbox/code/25.1_operation/src/point.cpp"
+}
+]

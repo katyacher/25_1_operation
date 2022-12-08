@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/operation.h
+point.h
+../include/point.h
+
+../include/point.h
+
+/home/kate/skillbox/code/25.1_operation/src/main.cpp
+iostream
+-
+operation.h
+/home/kate/skillbox/code/25.1_operation/src/operation.h
+point.h
+/home/kate/skillbox/code/25.1_operation/src/point.h
+
+/home/kate/skillbox/code/25.1_operation/src/operation.cpp
+iostream
+-
+operation.h
+/home/kate/skillbox/code/25.1_operation/src/operation.h
+
